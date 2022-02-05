@@ -1,0 +1,47 @@
+body {
+    background-image: linear-gradient(to right , #a4a4a7,rgb(116, 113, 113),#504e4e); color: rgb(255, 255, 255); font-size: 0.5cm;font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center; margin-top: 10cm; 
+
+}
+
+img{ 
+    margin: 20px
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&family=Supermercado+One&display=swap');
+
+ .btn{
+    padding: 20px 35px;
+    width: 150px;
+    color: rgb(255, 255, 255);
+    background:  gray ;
+    font-size: 20px;
+    margin: auto;
+    text-align: center;
+    border-radius: 13px;
+    user-select: none;
+    cursor: pointer;
+    box-shadow: 2px 4px 8px #2E2F33
+} 
+.btn:hover{
+    background:rgb(143, 143, 143) ;
+}
+.btn1{
+    padding: 20px 35px;
+    width: 150px;
+    color: rgb(255, 255, 255);
+    background:  gray ;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 13px;
+    user-select: none;
+    cursor: pointer;
+    margin:auto;
+    box-shadow: 2px 4px 8px #2E2F33;
+    margin-top: 10px;
+    
+   
+}
+.btn1:hover{
+    background: rgb(143, 143, 143);
+}
